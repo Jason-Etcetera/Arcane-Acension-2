@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "arcaneascension:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "arcaneascension:steel_chestplate",
+    "count": 1
+  }
+}

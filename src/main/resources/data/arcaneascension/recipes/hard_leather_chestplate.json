@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "MMM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "arcaneascension:hard_leather"
+    }
+  },
+  "result": {
+    "item": "arcaneascension:hard_leather_chestplate",
+    "count": 1
+  }
+}

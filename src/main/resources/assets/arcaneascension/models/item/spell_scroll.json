@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "arcaneascension:item/spell_scroll"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "arcaneascension:item/spell_scroll_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "arcaneascension:item/spell_scroll_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "arcaneascension:item/spell_scroll_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "arcaneascension:item/spell_scroll_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "arcaneascension:item/spell_scroll_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "arcaneascension:item/spell_scroll_5"
+    }
+  ]
+}

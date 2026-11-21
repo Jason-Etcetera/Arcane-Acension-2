@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "copper=false,iron=false": {
+      "model": "arcaneascension:block/smith_furnace"
+    },
+    "copper=true,iron=false": {
+      "model": "arcaneascension:block/smith_furnace"
+    },
+    "copper=false,iron=true": {
+      "model": "arcaneascension:block/smith_furnace"
+    },
+    "copper=true,iron=true": {
+      "model": "arcaneascension:block/smith_furnace"
+    }
+  }
+}

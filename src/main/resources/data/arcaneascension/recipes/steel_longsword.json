@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    " S ",
+    " T "
+  ],
+  "key": {
+    "S": {
+      "item": "arcaneascension:steel_ingot"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "arcaneascension:steel_longsword",
+    "count": 1
+  }
+}
